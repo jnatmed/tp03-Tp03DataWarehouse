@@ -13,6 +13,6 @@
 
     - c. ¿Cuántos estudiantes en la condición N posee la Carrera C por cada Plan de Estudios en una Sede determinada?
 
-![diagrma_punto1c](img/diagrama_punto1c.png)
+![diagrama_punto1c](img/diagrama_punto1c.png)
 
 
