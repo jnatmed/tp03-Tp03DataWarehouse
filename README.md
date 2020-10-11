@@ -25,5 +25,26 @@ El diseño se corresponde con el esquema tipo estrella, debido a que las tablas 
 
 ##### - b. Realice una reingeniería y define el Modelo Conceptual y Modelo Conceptual ampliado que permita ese modelo físico.
 
+![diseño reingenieria](img/diagrama_punto2b.png)
+
+##### - c. Defina un modelo lógico alternativo que le permita migrar a otro de los esquemas de DW estudiados en clase.
+
+![diseño reingenieria](img/diagrama_punto2c.png)
+
+### 3. Se cuenta con el siguiente Modelo Conceptual, el cual representa un esquema reducido de una Empresa que se dedica a la venta de artículos de librería por internet:
+
+##### - Utilizando una herramienta gráfica de diseño, genere el Modelo Conceptual Ampliado, Lógico y Físico del Data Warehouse.
+
+
+
+### 4. Se hace notar que la estructura de la Base de Datos del Punto 1 del “TP01 Definición de Procesos ETL” corresponde a uno de los posibles esquemas de DW. ¿A cuál? ¿Por qué?
+
+![diseño modelo medios](img/diseño_tabla_medios.jpg)
+
+Se podria decir que la estructura se corresponde con un esquema del tipo copo de nieve, ya que las tablas se encuentran normalizadas, salvo por los atributos nombre y direccion que podrian estar demas, si tomamos a la tabla medios como tabla hecho y dimensiones a las demas tablas. 
+
+
+
+
 
 
