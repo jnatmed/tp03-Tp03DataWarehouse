@@ -15,6 +15,15 @@
 
 ![diagrama_punto1c](img/diagrama_punto1c.png)
 
+### 2. Ahora, analice la Base de Datos de Rendimiento_Académico del “TP01 Definición de Procesos ETL”:
+
+![diseño rendimiento academico](img/diseño_rendimiento_academico.jpg)
+
+##### - a. Su diseño, ¿corresponde a alguno de los esquemas de DW estudiados en clase? ¿A cuál?,
+
+El diseño se corresponde con el esquema tipo estrella, debido a que las tablas no se encuentran normalizadas, esto podemos observar con la tabla ciudades, donde tenemos al atributo provincias, el cual podria estar en una tabla a parte, sin embargo esta en la tabla de ciudades.
+
+##### - b. Realice una reingeniería y define el Modelo Conceptual y Modelo Conceptual ampliado que permita ese modelo físico.
 
 
 
