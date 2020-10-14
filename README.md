@@ -35,6 +35,8 @@ El diseño se corresponde con el esquema tipo estrella, debido a que las tablas 
 
 ![diseño modelo logico](img/diagrama_punto3.png)
 
+![modelo fisico](img/modelo_fisico_punto3.png)
+
 ### 4. Se hace notar que la estructura de la Base de Datos del Punto 1 del “TP01 Definición de Procesos ETL” corresponde a uno de los posibles esquemas de DW. ¿A cuál? ¿Por qué?
 
 ![diseño modelo medios](img/diseño_tabla_medios.jpg)
