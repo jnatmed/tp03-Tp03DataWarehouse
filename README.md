@@ -25,9 +25,15 @@ El diseño se corresponde con el esquema tipo estrella, debido a que las tablas 
 
 ![diseño reingenieria](img/diagrama_punto2.png)
 
+![modelo fisico punto2b](img/modelo_fisico_punto2b.png)
+
+!
+
 ##### - c. Defina un modelo lógico alternativo que le permita migrar a otro de los esquemas de DW estudiados en clase.
 
-![diseño diagrama logico alternativo](img/diagrama_punto2c.png)
+![modelo logico alternativo](img/modelo_logico_2c.png)
+
+![modelo fisico 2c](img/modelo_fisico_punto2c.png)
 
 ### 3. Se cuenta con el siguiente Modelo Conceptual, el cual representa un esquema reducido de una Empresa que se dedica a la venta de artículos de librería por internet:
 
@@ -42,6 +48,12 @@ El diseño se corresponde con el esquema tipo estrella, debido a que las tablas 
 ![diseño modelo medios](img/diseño_tabla_medios.jpg)
 
 Se podria decir que la estructura se corresponde con un esquema del tipo copo de nieve, ya que las tablas se encuentran normalizadas, salvo por los atributos nombre y direccion que podrian estar demas, si tomamos a la tabla medios como tabla hecho y dimensiones a las demas tablas. 
+
+![modelo conceptual](img/modelo_conceptual_punto4.png)
+
+![modelo conceptual ampliado](img/modelo_conceptual_ampliado_punto4.png)
+
+![modelo fisico](img/modelo_fisico_punto4.png)
 
 ##### 5. Implemente los cubos de los esquemas de los enunciados 2) y 4) a partir de la herramienta Mondrian Schema Workbench.
 
